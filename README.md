@@ -7,6 +7,6 @@ with custom loss function
 
 where `T(x)` is the output of the boosted tree.
 
-`exp(T(x))` is the estimate of `lambda`
+`exp(T(x))` is the estimate of Poisson $\lambda$
 
 
